@@ -1,0 +1,49 @@
+﻿Abbreviation,Meaning
+Pos,Position
+Age,Player Age
+Team,Team
+G,Games
+GS,Games Started
+MP,Minutes Per Game
+FG,Field Goals Per Game
+FGA,Field Goal Attempts Per Game
+FG%,Field Goal Percentage
+3P,3 Pointers Per Game
+3PA,3 Point Attempts Per Game
+3P%,3 Point Percentage
+2P,2 Pointers Per Game
+2PA,2 Point Attempts Per Game
+2P%,2 Point Percentage
+eFG%,Effective Field Goal Percentage
+FT,Free Throws Per Game
+FTA,Free Throw Attempts Per Game
+FT%,Free Throw Percentage
+ORB,Offensive Rebounds Per Game
+DRB,Defensive Rebounds Per Game
+TRB,Total Rebounds Per Game
+AST,Assists Per Game
+STL,Steals Per Game
+BLK,Blocks Per Game
+TOV,Turnovers Per Game
+PF,Personal Fouls Per Game
+PTS,Points Per Game
+PER,Player Efficiency Rating
+TS%,True Shooting Percentage
+3PAr,3 Point Attempt Rate
+FTr,Free Throw Attempt Rate
+ORB%,Offensive Rebound Percentage
+DRB%,Defensive Rebound Percentage
+TRB%,Total Rebound Percentage
+AST%,Assist Percentage
+STL%,Steal Percentage
+BLK%,Block Percentage
+TOV%,Turnover Percentage
+USG%,Usage Percentage
+OWS,Offensive Win Shares
+DWS,Defensive Win Shares
+WS,Win Shares
+WS/48,Win Shares per 48 Minutes
+OBPM,Offensive Box Plus/Minus
+DBPM,Defensive Box Plus/Minus
+BPM,Box Plus/Minus
+VORP,Value Over Replacement Player
